@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.gif" alt="Lofi Coding Banner" width="100%" />
+  <img src="./banner.gif" alt="Lofi Coding Banner" width="70%" />
 </div>
 
 <br/>
@@ -27,8 +27,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HacyViv29&amp;theme=tokyonight&amp;hide_border=true" alt="Haciel's GitHub Streak" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HacyViv29&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Haciel's Top Languages" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HacyViv29&amp;theme=tokyonight&amp;hide_border=true" alt="Haciel's GitHub Streak" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HacyViv29&amp;theme=tokyonight&amp;hide_border=false&amp;langs_count=10" alt="Haciel's Top Languages" />
 </div>
 
 <br/>
@@ -37,11 +37,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HacyViv29&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Trophies" />
 </div>
 
+<br/>
+
 <div align="center">
   <h3>Technologies That I Know 👨‍💻</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,python,cs,php,java,html,css,js,mysql,git,linux,ubuntu,github,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,nginx,postman,html,css,js,ts,nodejs,materialui,php,cpp,java,python,wordpress,gimp,figma,discord,mysql,postgresql,mariadb,sqlserver,mongodb,firebase,linux" />
     </a>
   </p>
 </div>
@@ -52,8 +54,8 @@
   <h3>Connect With Me 🤝</h3>
   <p>
     <a href="https://linkedin.com/in/haciel-viveros"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-    <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
     <a href="https://discordapp.com/users/630434339523657754"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+    <a href="https://github.com/HacyViv29"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   </p>
 </div>
 
