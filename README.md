@@ -27,17 +27,15 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HacyViv29&theme=tokyonight&hide_border=true" alt="Haciel's GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HacyViv29&layout=compact&theme=tokyonight&hide_border=true" alt="Haciel's Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HacyViv29&amp;theme=tokyonight&amp;hide_border=true" alt="Haciel's GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HacyViv29&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Haciel's Top Languages" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HacyViv29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HacyViv29&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Trophies" />
 </div>
-
-<br/>
 
 <div align="center">
   <h3>Technologies That I Know 👨‍💻</h3>
