@@ -43,7 +43,7 @@
   <h3>Technologies That I Know 👨‍💻</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,nginx,postman,html,css,js,ts,nodejs,materialui,php,cpp,java,python,wordpress,gimp,figma,discord,mysql,postgresql,mariadb,sqlserver,mongodb,firebase,linux,jupyter" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,nginx,postman,html,css,js,ts,nodejs,materialui,php,cpp,java,python,wordpress,discord,mysql,postgresql,mongodb,firebase,linux" />
     </a>
   </p>
 </div>
