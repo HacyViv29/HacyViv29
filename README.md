@@ -28,7 +28,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HacyViv29&amp;theme=tokyonight&amp;hide_border=true" alt="Haciel's GitHub Streak" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HacyViv29&amp;theme=tokyonight&amp;hide_border=false&amp;langs_count=10&amp;exclude_langs=Jupyter%20Notebook" alt="Haciel's Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HacyViv29&amp;theme=tokyonight&amp;hide_border=false&amp;langs_count=10&amp;exclude=Jupyter%20Notebook" alt="Haciel's Top Languages" />
 </div>
 
 <br/>
